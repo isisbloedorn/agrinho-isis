@@ -6,10 +6,6 @@
 --cor-destaque: #a86c34;
 }
 
-div {
-background-color: rgb(141, 230, 114);
-}
-
 body{
     font-family: "Winky Rough", sans-serif;
     color: var(--cor-principal);
